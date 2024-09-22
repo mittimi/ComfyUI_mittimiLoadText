@@ -1,6 +1,6 @@
 [project]
 name = "comfyui_mittimi_load_text"
-description = "This node can easily switch between text or prompts by saving presets."
+description = "This node can easily switch between text or prompts by saving presets. "
 version = "1.0.0"
 license = { file = "LICENSE" }
 
